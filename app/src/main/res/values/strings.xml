@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AndroidCertification</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="core_fragment_label" translatable="false">Core Fragment</string>
+    <string name="data_management_fragment_label" translatable="false">Data M. Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment" translatable="false">Hello core fragment</string>
+    <string name="hello_second_fragment" translatable="false">Hello data m. fragment. Arg: %1$s</string>
+    <string name="toast" translatable="false">Toast</string>
+    <string name="snackbar" translatable="false">SnackBar</string>
+    <string name="other" translatable="false">Other</string>
+    <string name="alert_dialog" translatable="false">alert dialog</string>
+    <string name="custom_toast_description">This is a custom toast</string>
+</resources>
